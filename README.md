@@ -31,10 +31,20 @@
 
 ### 📊 **GitHub Stats:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riturajnigam&show_icons=true&theme=dark" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=riturajnigam&show_icons=true&theme=dark&cache_seconds=0" />
+
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riturajnigam&theme=dark" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riturajnigam&theme=dark&cache_seconds=0" />
+
+  <br />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajnigam&layout=compact&theme=dark" />
 </p>
+
 
 ---
 
