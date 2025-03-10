@@ -1,6 +1,3 @@
-
-# Hi there, I'm Rituraj Nigam 👋
-
 <h1 align="center">Hey 👋, I'm Rituraj Nigam</h1>
 
 💻 **Full Stack Developer** | 🚀 Love building scalable web apps  
