@@ -4,17 +4,6 @@
 💡 **Problem-Solving Enthusiast** | ❤️ Passionate about coding  
 
 ---
-
-### 🔗 **Connect with Me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riturajnigam/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/riturajnigam)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rituraj15072)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rituraj_Nigam_4212/)  
-📧 **Email:** [nigamrituraj3@gmail.com](mailto:nigamrituraj3@gmail.com)  
-📍 **Location:** Kanpur, Uttar Pradesh, India  
-
----
-
 ### 🚀 **Tech Stack:**
 <p align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" />
@@ -28,6 +17,19 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
 </p>
+
+----
+
+### 🔗 **Connect with Me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riturajnigam/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/riturajnigam)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rituraj15072)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rituraj_Nigam_4212/)  
+📧 **Email:** [nigamrituraj3@gmail.com](mailto:nigamrituraj3@gmail.com)  
+📍 **Location:** Kanpur, Uttar Pradesh, India  
+
+---
+
 
 ---
 
