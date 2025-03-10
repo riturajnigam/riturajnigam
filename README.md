@@ -32,18 +32,19 @@
 ### 📊 **GitHub Stats:**
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=riturajnigam&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riturajnigam&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   
   <br />
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riturajnigam&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riturajnigam&theme=dark&count_private=true" alt="GitHub Streak Stats" />
   
   <br />
   
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajnigam&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
+
 
 
 
